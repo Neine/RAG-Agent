@@ -108,7 +108,7 @@ RAG agents only know what you give them:
 
 ## Author
 
-**Neine Arora** — Vice President, Deutsche Bank  
+**Neine Arora**   
 Building at the intersection of banking operations and agentic AI.
 
 [LinkedIn](https://linkedin.com/in/) · [GitHub](https://github.com/)
